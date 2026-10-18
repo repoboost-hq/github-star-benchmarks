@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 390" width="840" height="390" role="img" aria-labelledby="ttl dsc"><title id="ttl">Repositories above each GitHub star threshold</title><desc id="dsc">Log-scale bar chart. 32.6 million repositories have at least one star; 484,723 have 100 or more; 65,691 have 1,000 or more; 132 have 100,000 or more.</desc><rect width="840" height="390" rx="18" fill="#FFFFFF"/><filter id="shadow" x="-20%" y="-40%" width="140%" height="180%"><feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#000" flood-opacity=".25"/></filter>
+<text x="36" y="52" fill="#0A0D11" font-family="Inter, -apple-system, 'Segoe UI', sans-serif" font-size="23" font-weight="700">Repositories above each star threshold</text><text x="36" y="78" fill="#5B6B7E" font-family="Inter, -apple-system, 'Segoe UI', sans-serif" font-size="13">Public GitHub repositories · 18 October 2026 · log scale</text>
+<line x1="192" y1="92" x2="192" y2="308" stroke="rgba(10,13,17,.10)" stroke-width="1"/>
+<text x="192" y="322" fill="#5B6B7E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" text-anchor="middle">10</text>
+<line x1="264" y1="92" x2="264" y2="308" stroke="rgba(10,13,17,.10)" stroke-width="1"/>
+<text x="264" y="322" fill="#5B6B7E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" text-anchor="middle">100</text>
+<line x1="336" y1="92" x2="336" y2="308" stroke="rgba(10,13,17,.10)" stroke-width="1"/>
+<text x="336" y="322" fill="#5B6B7E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" text-anchor="middle">1,000</text>
+<line x1="407" y1="92" x2="407" y2="308" stroke="rgba(10,13,17,.10)" stroke-width="1"/>
+<text x="407" y="322" fill="#5B6B7E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" text-anchor="middle">10,000</text>
+<line x1="479" y1="92" x2="479" y2="308" stroke="rgba(10,13,17,.10)" stroke-width="1"/>
+<text x="479" y="322" fill="#5B6B7E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" text-anchor="middle">100,000</text>
+<line x1="551" y1="92" x2="551" y2="308" stroke="rgba(10,13,17,.10)" stroke-width="1"/>
+<text x="551" y="322" fill="#5B6B7E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" text-anchor="middle">1,000,000</text>
+<line x1="623" y1="92" x2="623" y2="308" stroke="rgba(10,13,17,.10)" stroke-width="1"/>
+<text x="623" y="322" fill="#5B6B7E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" text-anchor="middle">10,000,000</text>
+<text x="108" y="120" fill="#2B3644" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" text-anchor="end">1+</text>
+<rect x="120" y="104" width="540" height="22" rx="5" fill="#EA580C" opacity="1.00"/>
+<text x="670" y="120" fill="#0A0D11" font-family="Inter, -apple-system, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600">32,621,661</text>
+<text x="108" y="146" fill="#2B3644" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" text-anchor="end">10+</text>
+<rect x="120" y="130" width="465" height="22" rx="5" fill="#EA580C" opacity="0.94"/>
+<text x="595" y="146" fill="#0A0D11" font-family="Inter, -apple-system, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600">2,908,251</text>
+<text x="108" y="172" fill="#2B3644" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" text-anchor="end">100+</text>
+<rect x="120" y="156" width="409" height="22" rx="5" fill="#EA580C" opacity="0.88"/>
+<text x="539" y="172" fill="#0A0D11" font-family="Inter, -apple-system, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600">484,723</text>
+<text x="108" y="198" fill="#2B3644" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" text-anchor="end">1,000+</text>
+<rect x="120" y="182" width="346" height="22" rx="5" fill="#EA580C" opacity="0.82"/>
+<text x="476" y="198" fill="#0A0D11" font-family="Inter, -apple-system, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600">65,691</text>
+<text x="108" y="224" fill="#2B3644" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" text-anchor="end">5,000+</text>
+<rect x="120" y="208" width="295" height="22" rx="5" fill="#EA580C" opacity="0.76"/>
+<text x="425" y="224" fill="#0A0D11" font-family="Inter, -apple-system, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600">12,744</text>
+<text x="108" y="250" fill="#2B3644" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" text-anchor="end">10,000+</text>
+<rect x="120" y="234" width="270" height="22" rx="5" fill="#EA580C" opacity="0.70"/>
+<text x="400" y="250" fill="#0A0D11" font-family="Inter, -apple-system, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600">5,650</text>
+<text x="108" y="276" fill="#2B3644" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" text-anchor="end">50,000+</text>
+<rect x="120" y="260" width="195" height="22" rx="5" fill="#EA580C" opacity="0.64"/>
+<text x="325" y="276" fill="#0A0D11" font-family="Inter, -apple-system, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600">515</text>
+<text x="108" y="302" fill="#2B3644" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" text-anchor="end">100,000+</text>
+<rect x="120" y="286" width="152" height="22" rx="5" fill="#EA580C" opacity="0.58"/>
+<text x="282" y="302" fill="#0A0D11" font-family="Inter, -apple-system, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600">132</text>
+<text x="36" y="368" fill="#5B6B7E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">Source: GitHub REST Search API, 18 October 2026 · repo: repoboost-hq/github-star-benchmarks</text>
+</svg>
