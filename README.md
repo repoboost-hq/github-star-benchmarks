@@ -154,6 +154,16 @@ Every order is confirmed before delivery.
 
 </div>
 
+## About
+
+RepoBoost publishes this snapshot as open data. It is maintained by the team behind
+[buygithub.com](https://buygithub.com/), a GitHub growth service for teams that need a credible
+starting base while they build distribution. The dataset itself is independent: public queries,
+one snapshot date, reproducible by anyone. Corrections and questions are welcome in the issue tracker.
+
+- Read the analysis: [How Many GitHub Stars Is Good? 2026 Benchmarks](https://buygithub.com/blog/how-many-github-stars-is-good/)
+- GitHub stars service: [RepoBoost GitHub stars](https://buygithub.com/buy-github-stars/)
+
 ## License
 
 Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Code: MIT.
