@@ -7,14 +7,10 @@
 **A reproducible snapshot of GitHub's star distribution.**
 October 2026 · 32.6M starred repositories · CC BY 4.0
 
-[![Snapshot](https://img.shields.io/badge/Snapshot-18%20October%202026-0A0D11?style=flat-square&logo=github&logoColor=white)](data/star-counts-2026-10-18.csv)
-[![License: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-22C55E?style=flat-square)](LICENSE)
-[![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white)](reproduce.py)
-[![GitHub stars](https://img.shields.io/github/stars/repoboost-hq/github-star-benchmarks?style=flat-square&color=F97316)](https://github.com/repoboost-hq/github-star-benchmarks/stargazers)
-
-[![Read the analysis](https://img.shields.io/badge/Read%20the%20analysis-buygithub.com%2Fblog-F97316?style=for-the-badge&logo=readme&logoColor=white)](https://buygithub.com/blog/how-many-github-stars-is-good/)
-[![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-from%20%2430%2F1%2C000-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://buygithub.com/buy-github-stars/)
-[![Telegram](https://img.shields.io/badge/DM-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlpinTamhas928)
+[![Snapshot](https://img.shields.io/badge/Snapshot-18%20October%202026-F97316?style=flat-square&logo=github&logoColor=white&labelColor=0A0D11)](data/star-counts-2026-10-18.csv)
+[![License: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-22C55E?style=flat-square&labelColor=0A0D11)](LICENSE)
+[![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0A0D11)](reproduce.py)
+[![Reproducible](https://img.shields.io/badge/Reproducible-yes-22C55E?style=flat-square&labelColor=0A0D11)](reproduce.py)
 
 </div>
 
@@ -142,13 +138,19 @@ The script writes `data/star-counts-<snapshot>.csv` next to the existing snapsho
 
 <div align="center">
 
-**RepoBoost** delivers stars, forks, watches and followers from aged accounts with real commit
+**Need a credible starting base?**
+
+RepoBoost delivers stars, forks, watches and followers from aged accounts with real commit
 history. Flat $30 per 1,000 actions, packages $30-$50, delivered gradually in 12-24 hours.
 Every order starts with a conversation on Telegram.
 
-[![See the stars service](https://img.shields.io/badge/See%20the%20service-buygithub.com%2Fbuy--github--stars-F97316?style=flat-square&logo=googlechrome&logoColor=white)](https://buygithub.com/buy-github-stars/)
-[![Order on Telegram](https://img.shields.io/badge/Order%20on%20Telegram-%40AlpinTamhas928-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AlpinTamhas928)
-[![Read the blog](https://img.shields.io/badge/Read%20the%20full%20analysis-buygithub.com%2Fblog-0A0D11?style=flat-square&logo=readme&logoColor=white)](https://buygithub.com/blog/how-many-github-stars-is-good/)
+<p align="center">
+  <a href="https://buygithub.com/buy-github-stars/"><img src="https://img.shields.io/badge/GitHub%20Stars-FROM%20%2430%2F1%2C000-F97316?style=for-the-badge&amp;labelColor=0A0D11&amp;logo=github&amp;logoColor=white" alt="GitHub stars from $30 per 1,000 actions"></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/AlpinTamhas928"><img src="https://img.shields.io/badge/Order%20on-TELEGRAM-26A5E4?style=for-the-badge&amp;labelColor=0A0D11&amp;logo=telegram&amp;logoColor=white" alt="Order on Telegram"></a>
+  &nbsp;&nbsp;
+  <a href="https://buygithub.com/blog/how-many-github-stars-is-good/"><img src="https://img.shields.io/badge/Read-THE%20ANALYSIS-6B7280?style=for-the-badge&amp;labelColor=0A0D11&amp;logo=readme&amp;logoColor=white" alt="Read the full analysis"></a>
+</p>
 
 </div>
 
