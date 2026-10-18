@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "GitHub Star Benchmarks (October 2026)"
+abstract: "A reproducible snapshot of GitHub's star-count distribution: repository counts above each star threshold, by language and age cohort."
+authors:
+  - name: "RepoBoost"
+    website: "https://buygithub.com"
+date-released: 2026-10-18
+url: "https://github.com/repoboost-hq/github-star-benchmarks"
+repository-code: "https://github.com/repoboost-hq/github-star-benchmarks"
+license: CC-BY-4.0
+version: "1.0.0"
