@@ -142,12 +142,12 @@ The script writes `data/star-counts-<snapshot>.csv` next to the existing snapsho
 
 RepoBoost delivers stars, forks, watches and followers from aged accounts with real commit
 history. Flat $30 per 1,000 actions, packages $30-$50, delivered gradually in 12-24 hours.
-Every order starts with a conversation on Telegram.
+Every order is confirmed before delivery.
 
 <p align="center">
   <a href="https://buygithub.com/buy-github-stars/"><img src="https://img.shields.io/badge/GitHub%20Stars-FROM%20%2430%2F1%2C000-F97316?style=for-the-badge&amp;labelColor=0A0D11&amp;logo=github&amp;logoColor=white" alt="GitHub stars from $30 per 1,000 actions"></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/AlpinTamhas928"><img src="https://img.shields.io/badge/Order%20on-TELEGRAM-26A5E4?style=for-the-badge&amp;labelColor=0A0D11&amp;logo=telegram&amp;logoColor=white" alt="Order on Telegram"></a>
+  <a href="https://buygithub.com/buy-github-bundle/"><img src="https://img.shields.io/badge/Compare-PACKAGES-F59E0B?style=for-the-badge&amp;labelColor=0A0D11&amp;logo=github&amp;logoColor=white" alt="Compare GitHub growth packages"></a>
   &nbsp;&nbsp;
   <a href="https://buygithub.com/blog/how-many-github-stars-is-good/"><img src="https://img.shields.io/badge/Read-THE%20ANALYSIS-6B7280?style=for-the-badge&amp;labelColor=0A0D11&amp;logo=readme&amp;logoColor=white" alt="Read the full analysis"></a>
 </p>
