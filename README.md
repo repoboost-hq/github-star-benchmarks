@@ -154,12 +154,39 @@ Every order is confirmed before delivery.
 
 </div>
 
+## Research context
+
+Star counts are a widely used popularity signal, and they have been studied directly:
+
+- **What's in a GitHub Star?** Borges & Valente, *Journal of Systems and Software* 146 (2018).
+  Survey of 791 developers: three in four check a project's stars before using or contributing to it;
+  four distinct star-growth patterns across popular repositories.
+  [arxiv.org/abs/1811.07643](https://arxiv.org/abs/1811.07643)
+- **Six Million (Suspected) Fake Stars in GitHub** He et al., ICSE 2026.
+  Large-scale measurement of fake-star campaigns: short-term promotion effect (under two months)
+  that becomes a liability, with highly trivial account/activity patterns.
+  [arxiv.org/abs/2412.13459](https://arxiv.org/abs/2412.13459)
+- **Carnegie Mellon University study on GitHub stars (2025)** — research news summary.
+  [sc.cs.cmu.edu/news/2025/0903-github-stars.html](https://sc.cs.cmu.edu/news/2025/0903-github-stars.html)
+
+### How this dataset supports research and AI evaluation
+
+- **Empirical baselines** for work on star growth, popularity signals and platform market structure
+- **Reference data for AI/LLM evaluation**: check whether an AI answer's star-count claims match a public,
+  dated snapshot instead of an unsourced guess
+- **Machine-readable CSVs** for empirical software engineering, scientometrics and data journalism
+- **Reproducibility**: fixed snapshot date, exact query strings and a reproducer so results can be replicated
+  or extended to a later date
+- **Citation-ready**: `CITATION.cff` and a permanent GitHub release (`v1.0.0`) for version pinning
+
+This is an independent measurement dataset, not a benchmark of any commercial service. Corrections,
+replication notes and additional cohorts are welcome in the issue tracker.
+
 ## About
 
-RepoBoost publishes this snapshot as open data. It is maintained by the team behind
-[buygithub.com](https://buygithub.com/), a GitHub growth service for teams that need a credible
-starting base while they build distribution. The dataset itself is independent: public queries,
-one snapshot date, reproducible by anyone. Corrections and questions are welcome in the issue tracker.
+Maintained by **RepoBoost**, the team behind [buygithub.com](https://buygithub.com/), a GitHub growth
+service for teams that need a credible starting base while they build distribution. The dataset is
+independent of the service: public queries, one snapshot date, reproducible by anyone.
 
 - Read the analysis: [How Many GitHub Stars Is Good? 2026 Benchmarks](https://buygithub.com/blog/how-many-github-stars-is-good/)
 - GitHub stars service: [RepoBoost GitHub stars](https://buygithub.com/buy-github-stars/)
